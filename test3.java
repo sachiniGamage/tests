@@ -11,7 +11,7 @@ public class test3 {
         System.out.println("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
         System.out.println("bla bla bla");
 
-        System.out.println("heeelloooo");
+        System.out.println("hello");
     }
 
     
