@@ -5,14 +5,13 @@ public class test3 {
             System.out.println(i);
             System.out.println("hi");
         }
-<<<<<<< HEAD
         System.out.println("Check 2");
-=======
 
 
         System.out.println("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
         System.out.println("bla bla bla");
->>>>>>> test_1_1
+
+        System.out.println("heeelloooo");
     }
 
     
